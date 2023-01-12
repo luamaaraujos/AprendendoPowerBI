@@ -1,0 +1,10 @@
+Nessa pasta você encontra um Dashboard de Vendas de carros de luxo no Brasil. Ele foi montado seguindo instruções do curso "PowerBI para Análise de Dados" da Data Science Academy. 
+Esse foi o meu primeiro Dashboard. 
+É possível perceber que ainda é um produto simples e muito básico. Mas nele já tem alguns tópicos importantes de serem observados: 
+- Um gráfico de colunas com uma linha média, indicando o valor total de venda por ano e as médias desses anos;
+- Um mapa que permite observar o custo da mão de obra em cada Cidade, o que permite comparar por meio de bolhas de intensidade;
+- O custo de entrega de cada marca, o que, dentre outras coisas, permite comparar se a marca com o maior custo de entrega, é aquela que tem o maior volume de vendas ou não; 
+- Um cartão com o valor total de venda de todos os carros em todas as cidades;
+- E por fim, uma tabela que mostra o custo de entrega, valor do custo e de venda de cada marca. Caso o gestor tenha interesse, é possível ainda identificar essas variáveis por cidade. 
+
+O Dashboard, embora simples, apresenta um storytelling interessante e um visual organizado. Essas características são essesnciais para a contrução de um Dash. 
