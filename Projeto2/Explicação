@@ -1,0 +1,19 @@
+Nesse Dashboard eu apresento informações sobre as vendas de um e-comerce com atuação no Brasil. Esse foi o primeiro Dashboard com relacionamento entre as tabelas.
+Embora apresente informações mais gerais, ele permite fazer importantes análises sobre as vendas desse e-commerce. 
+As seguintes perguntas foram respondidas: 
+1- Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas?
+Para isso foi criado um gráfico de barras que identificou que a Brastemp foi o mais vendido
+
+2- Qual o total de vendas por estado e por categoria? 
+Foi criado um mapa para facilitar a visualização e foi ainda incluído bolhas proporcionais ao total de venda e subdividido por categorias
+
+3- Qual o total de vendas por segmento?
+Optei por criar um funil, uma vez que esse tipo de ferramenta permite uma melhor visualização para essa pergunta
+
+4- Qual segmento tem maior influência no valor médio de venda? 
+Foi utilizado a ferramenta de principais influenciadores. 
+
+
+Em anexo, é possível visualizar o DashBoard completo.
+
+
