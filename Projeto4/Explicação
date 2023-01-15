@@ -1,0 +1,13 @@
+Nesse projeto aqui, eu trabalhei com pequeníssimas vertentes da IA que o Power BI nos fornece, bem como om um pouco de predição, mais visto em ciência de dados. 
+Claro que não chega nem perto de um projeto de Ciências de Dados, uma vez que não trabalha com a complexidade da CD. 
+De um modo geral, será encontrado nesse projeto: 
+1. Qual foi o número de desempregados em cada ano? 
+Eu resolvi trazer um pouco mais de detalhamento às análises e fiz um gráfico de área especificando a taxa de desemprego de acordo faixa etária ao longo dos anos. Entendo que assim consigo dar mais detalhamento ao gestor
+
+2. Fiz questão de permitir a segmentação por faixa etária e por gênero;
+
+3. Usei um gráfico de linha para tentar prever o total de desempregados nos próximos 3 anos; 
+
+4. Criei um campo com perguntas e respostas geradas pela Inteligência Artificial. 
+
+Não deixe de abrir o arquivo para entender melhor!
