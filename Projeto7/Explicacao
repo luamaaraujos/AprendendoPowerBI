@@ -8,7 +8,4 @@ Os dados que aparecem no dashboard são os seguintes:
 • Total de unidades vendidas por estado e por dia
 • Total de unidades vendidas por produto
 
-Para isso, foi criado um gráfico de bolhas que apresenta a relação entre o preço de custo e o valor de venda de diferentes produtos; o total de vendas por estado; e o total de vendas da companhia. 
-Além disso, é possível selecionar qual cidade para gerar os relatórios. 
-
 Não deixem de conferir esse material completo no anexo dessa pasta. 
