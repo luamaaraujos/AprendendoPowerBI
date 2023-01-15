@@ -1,0 +1,12 @@
+O Dashboard criado nesse projeto apresenta informações sobre o Saldo Bancário de diversos clientes. 
+Nesse dash, eu apresento as seguintes informações: 
+
+1. Inicialmente uma segmentação de dados de acordo com o nome do cliente;
+2. Um gráfico do ArcGIS que mostra a realidade dos clientes do Rio de Janeiro, uma vez que o cliente era de lá; 
+3. Um mapa de calor apresentando o saldo dos clientes em diferentes cidades. É possível notar que São Paulo detém o maior volume de clientes e salto total; 
+4. Um mapa de linhas que apresenta o saldo por idade. Fiz questão de adicionar uma linha média para saber quais faixas etárias estavam abaixo ou acima da média. Pude observar que a média é atingida aos 27 anos. Até os 47, os indivíduos têm saldo acima da média, idade em que esse saldo volta a diminuir e ficar abaixo da média; 
+5. Um gráfico que mostra o saldo de acordo com Idade e Gênero, e responde à seguinte pergunta: Qual gênero e faixa etária apresenta o menor saldo? Como era de se esperar, indivíduos mais novos, especialmente abaixo de 20 anos possuem menores saldos;
+6. Também apresento o saldo de acordo com a classificação do score bancário dos indivíduos. É possível perceber que indivíduos com scores médios e baixos têm aparentemente o mesmo saldo; 
+7. Apresento o saldo de acordo com o sexo dos indivíduos. 
+
+Não deixe de conferir o aarquivo para melhor compreender o que foi feito. 
