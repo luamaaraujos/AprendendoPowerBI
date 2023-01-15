@@ -1,12 +1,17 @@
-O Dashboard criado nesse projeto apresenta informações sobre o Saldo Bancário de diversos clientes. 
-Nesse dash, eu apresento as seguintes informações: 
+Nesse dashoard eu respondo perguntas de gestores de uma operadora de planos de saúde. Esses diretores perceberam que os gastos de seguro
+saúde aumentaram de forma considerável e precisam monitorar a evolução dos gastos.
+Os diretores fizeram diversas perguntas e gostariam de poder visualizar as respostas em uma única tela ou visualização.
+As perguntas respondidas foram as seguintes: 
 
-1. Inicialmente uma segmentação de dados de acordo com o nome do cliente;
-2. Um gráfico do ArcGIS que mostra a realidade dos clientes do Rio de Janeiro, uma vez que o cliente era de lá; 
-3. Um mapa de calor apresentando o saldo dos clientes em diferentes cidades. É possível notar que São Paulo detém o maior volume de clientes e salto total; 
-4. Um mapa de linhas que apresenta o saldo por idade. Fiz questão de adicionar uma linha média para saber quais faixas etárias estavam abaixo ou acima da média. Pude observar que a média é atingida aos 27 anos. Até os 47, os indivíduos têm saldo acima da média, idade em que esse saldo volta a diminuir e ficar abaixo da média; 
-5. Um gráfico que mostra o saldo de acordo com Idade e Gênero, e responde à seguinte pergunta: Qual gênero e faixa etária apresenta o menor saldo? Como era de se esperar, indivíduos mais novos, especialmente abaixo de 20 anos possuem menores saldos;
-6. Também apresento o saldo de acordo com a classificação do score bancário dos indivíduos. É possível perceber que indivíduos com scores médios e baixos têm aparentemente o mesmo saldo; 
-7. Apresento o saldo de acordo com o sexo dos indivíduos. 
+1. Qual o gasto total da operadora?
+2. Qual a idade média dos usuários da operadora?
+3. Qual o gasto médio por região?
+4. Qual faixa etária possui maior gasto com seguro saúde por região?
+5. Crianças tem gasto maior que adultos?
+6. Qual a proporção de crianças por região?
+7. O aumento da idade influencia no imc?
+8. Quem tem maior gasto, homens ou mulheres?
+9. Se o usuário for mulher, o imc é acima ou abaixo da média?
+10. Se for homem, com mais de 50  anos e da região Sudeste, o gasto é maior ou menor que a média de gastos da região?
 
-Não deixe de conferir o aarquivo para melhor compreender o que foi feito. 
+Não deixe de conferir o Dashboard em anexo nessa pasta
